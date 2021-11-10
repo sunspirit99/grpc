@@ -15,6 +15,7 @@ How to run Example :
 - Execution time of BidirectionalRPC : 50.163772ms
 - Execution time of ServerStreamingRPC : 49.136169ms
 - Execution time of ClientStreamingRPC : 22.490456msv
+
 3rd measurement result :
 - Execution time of SimpleRPC : 477.868411ms
 - Execution time of BidirectionalRPC : 21.179674ms
